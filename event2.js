@@ -1,7 +1,9 @@
 var lst_images = [
+    "url(images/pear.jpg)",
     "url(images/cho1.jpg)",
-    "url(images/heo.jpg)",
+    "url(images/dance.jpg)",
     "url(images/meo.jpg)",
+    "url(images/thinking.jpg)",
     "url(images/tl.jpg)"
 ];
 
